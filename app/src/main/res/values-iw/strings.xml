@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">27A-10208-L04</string>
+    <string name="start">התחל</string>
+    <string name="stop">הפסק</string>
+    <string name="times_up">זמן אזל!</string>
+</resources>
